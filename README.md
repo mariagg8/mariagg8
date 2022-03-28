@@ -1,4 +1,14 @@
+![Alt Text](https://media0.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=790b7611fe14523e816f6ac72ea98692fb15a40b44d32044&rid=giphy.gif&ct=g)
+
 ### Hi there 👋
+
+#### I am Maria from 🇲🇽
+#### I am a :taurus:
+#### I am currently learning javascript
+## 📫 How to reach me: 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 
 <!--
 **mariagg8/mariagg8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
