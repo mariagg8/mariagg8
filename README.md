@@ -4,10 +4,13 @@
 
 #### I am Maria from 🇲🇽
 #### I am a :taurus:
-#### I am currently learning javascript
+#### On my way to became a fullstack webdeveloper
+##  My stack 
+
+HTML, CSS, Javascript, React, NextJS
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maria-gonzalez-bb91b9b/)
 
 
 <!--
